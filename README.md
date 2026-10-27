@@ -2,10 +2,10 @@
 
 <img src="docs/banner.png" alt="Radar Científico Mestre — Pesquisa inteligente de artigos científicos" width="100%">
 
-[![Versão](https://img.shields.io/github/v/release/Tech-Thiago/radar-cientifico-mestre?label=vers%C3%A3o&color=7c3aed&style=for-the-badge&labelColor=0a0f1e)](https://github.com/Tech-Thiago/radar-cientifico-mestre/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Tech-Thiago/radar-cientifico-mestre/total?color=6366f1&style=for-the-badge&labelColor=0a0f1e)](https://github.com/Tech-Thiago/radar-cientifico-mestre/releases)
-[![Plataforma](https://img.shields.io/badge/plataforma-Windows-0a0f1e?style=for-the-badge&logo=windows&labelColor=0a0f1e&color=1e293b)](#-instalação)
-[![Licença](https://img.shields.io/badge/licença-uso%20pessoal-7c3aed?style=for-the-badge&labelColor=0a0f1e)](#-licença)
+[![Versão](docs/badges/badge-versao.svg)](https://github.com/Tech-Thiago/radar-cientifico-mestre/releases/latest)
+[![Downloads](docs/badges/badge-downloads.svg)](https://github.com/Tech-Thiago/radar-cientifico-mestre/releases)
+[![Plataforma](docs/badges/badge-plataforma.svg)](#-instalação)
+[![Licença](docs/badges/badge-licenca.svg)](#-licença)
 
 </div>
 
