@@ -2,10 +2,10 @@
 
 <img src="docs/banner.png" alt="Radar Científico Mestre — Pesquisa inteligente de artigos científicos" width="100%">
 
-[![Versão](https://img.shields.io/github/v/release/Tech-Thiago/radar-cientifico-mestre?label=vers%C3%A3o&color=7c3aed)](https://github.com/Tech-Thiago/radar-cientifico-mestre/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Tech-Thiago/radar-cientifico-mestre/total?color=22d3ee)](https://github.com/Tech-Thiago/radar-cientifico-mestre/releases)
-[![Plataforma](https://img.shields.io/badge/plataforma-Windows-0a0f1e?logo=windows)](#-instalação)
-[![Licença](https://img.shields.io/badge/licença-defina%20aqui-lightgrey)](#-licença)
+[![Versão](https://img.shields.io/github/v/release/Tech-Thiago/radar-cientifico-mestre?label=vers%C3%A3o&color=7c3aed&style=for-the-badge&labelColor=0a0f1e)](https://github.com/Tech-Thiago/radar-cientifico-mestre/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Tech-Thiago/radar-cientifico-mestre/total?color=6366f1&style=for-the-badge&labelColor=0a0f1e)](https://github.com/Tech-Thiago/radar-cientifico-mestre/releases)
+[![Plataforma](https://img.shields.io/badge/plataforma-Windows-0a0f1e?style=for-the-badge&logo=windows&labelColor=0a0f1e&color=1e293b)](#-instalação)
+[![Licença](https://img.shields.io/badge/licença-uso%20pessoal-7c3aed?style=for-the-badge&labelColor=0a0f1e)](#-licença)
 
 </div>
 
@@ -13,12 +13,10 @@
 
 ## 📖 O que é
 
-O Radar Científico Mestre é um programa de desktop para Windows que pesquisa automaticamente artigos científicos novos, seja por tema, por autor ou por DOI, usando a base de dados aberta [OpenAlex](https://openalex.org). Ele avisa por e-mail sempre que encontra algo novo. É ideal para quem precisa acompanhar uma linha de pesquisa sem precisar entrar manualmente em sites de busca todo dia.
+O Radar Científico Mestre é um programa de desktop para Windows que pesquisa artigos científicos novos, seja por tema, por autor ou por DOI, usando a base de dados aberta [OpenAlex](https://openalex.org). Em vez de você entrar em vários sites e repetir a mesma busca manualmente, basta abrir o programa, salvar seus temas de pesquisa e rodar todos de uma vez. Se quiser, ele também já te envia o resultado por e-mail, organizado e pronto, no mesmo momento em que você faz a busca.
 
-> 💡 Pense nele como um "Google Alertas", só que feito sob medida para produção acadêmica.
-
-<!-- 🖼️ Dica: troque esta linha por um screenshot real da tela principal do programa -->
-<p align="center"><img src="https://via.placeholder.com/900x480/0a0f1e/8a96b8?text=Screenshot+do+Radar+Cient%C3%ADfico+Mestre" alt="Tela principal do programa" width="80%"></p>
+> [!TIP]
+> Pense nele como um **"atalho"** para a sua rotina de pesquisa: você define os temas uma vez, e quando quiser atualizar, roda tudo com um clique só.
 
 ---
 
@@ -82,10 +80,12 @@ Este projeto está sob uma licença de uso pessoal. Veja o arquivo [LICENSE.md](
 
 <div align="center">
 
-<img src="docs/icone.png" width="40" alt="ícone Radar Científico Mestre"><br>
+<br>
 
-Feito por **[Tech-Thiago](https://github.com/Tech-Thiago)** · se este projeto te ajudou, deixe uma ⭐
+<img src="docs/icone.png" width="26" align="absmiddle" alt="ícone Radar Científico Mestre"> **Feito por [Tech-Thiago](https://github.com/Tech-Thiago)**
 
-Criado originalmente para a Mavi 💙
+Se este projeto te ajudou, deixe uma ⭐
+
+<sub>Criado originalmente para a Mavi 💙</sub>
 
 </div>
