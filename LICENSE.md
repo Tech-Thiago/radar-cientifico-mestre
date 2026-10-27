@@ -10,9 +10,6 @@ Todos os direitos reservados.
    a) Baixar, instalar e usar o Programa livremente, para fins pessoais,
       acadêmicos ou de pesquisa, sem custo.
 
-   b) Visualizar o código-fonte publicado neste repositório, para fins
-      de transparência, aprendizado e estudo.
-
 2. RESTRIÇÕES
    Não é permitido, sem autorização prévia e por escrito do autor:
 
